@@ -1,0 +1,13 @@
+name: ggstatsplotShiny
+title: ggstatsplotShiny
+username:
+account: antoinesoetewey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5088182
+bundleId: 5235828
+url: https://antoinesoetewey.shinyapps.io/ggstatsplotShiny/
+when: 1636540664.71521
+lastSyncTime: 1636540664.71523
+asMultiple: FALSE
+asStatic: FALSE
