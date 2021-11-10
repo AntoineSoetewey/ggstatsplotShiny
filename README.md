@@ -2,4 +2,4 @@
 
 Shiny app for the {ggstatsplot} R package.
 
-See more information about the package [here](https://indrajeetpatil.github.io/ggstatsplot/), and see the Shiny app [here](https://antoinesoetewey.shinyapps.io/ggstatsplotShiny/).
+See the Shiny app [here](https://antoinesoetewey.shinyapps.io/ggstatsplotShiny/) and see more information about it [here](https://statsandr.com/blog/how-to-do-a-t-test-or-anova-for-many-variables-at-once-in-r-and-communicate-the-results-in-a-better-way/).
